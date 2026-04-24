@@ -15,7 +15,9 @@ An open-source Bitcoin wealth planning tool for long-term stackers. Model DCA st
 
 ## Screenshots
 
-> _Add screenshots here_
+![](images/one.png)
+
+![](images/two.png)
 
 ## Setup
 
